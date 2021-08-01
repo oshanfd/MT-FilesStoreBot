@@ -49,8 +49,8 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/Mo_Tech_Group"),
-                        InlineKeyboardButton("🔊Channel", url="https://t.me/Mo_Tech_YT")
+                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/CinerooMoviesNew"),
+                        InlineKeyboardButton("🔊Channel", url="https://t.me/CinerooUpdates")
                     ],
                     [
                         InlineKeyboardButton("💻 Tutorial Video 💻", url="https://youtu.be/RPs9vz_neXg")
